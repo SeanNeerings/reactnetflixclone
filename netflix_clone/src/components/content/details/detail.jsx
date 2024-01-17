@@ -1,6 +1,4 @@
-
-import "detail.css"
-import DetailPage from "./detailpage";
+import "./detail.css"
 
 
 const Details = () => {

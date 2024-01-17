@@ -1,15 +1,15 @@
 import Navbar from "../../components/navbar/navbar"
-import Home from "../../components/content/home/home"
+import DetailPage from "../../components/content/details/detail"
 import Footer from "../../components/footer/footer"
 
-const Homepage = () => {
+const Detailpages = () => {
   return (
     <div>
       {/* <Navbar/> */}
-      <Home />
+      <Details />
       {/* <Footer/> */}
     </div>
   )
 }
 
-export default Homepage
+export default Detailpages
